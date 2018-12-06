@@ -7,7 +7,7 @@ class Main{
 
 	System.out.println("Hola");
 
-	System.err.println("Un error!");
+	System.err.println("Un error!")
   }
 
 }
