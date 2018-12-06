@@ -5,9 +5,9 @@ class Main{
 
 	System.out.println("Se envían las notificaciones");
 
-	System.out.println("Hola")
+	System.out.println("Hola");
 
-	System.err.println("Un error!")
+	System.err.println("Un error!");
   }
 
 }
